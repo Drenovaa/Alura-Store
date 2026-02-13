@@ -15,8 +15,8 @@ Avaliar o desempenho das quatro lojas e recomendar, com base em dados, qual dela
 Foram analisadas as seguintes métricas:
 
 - **Faturamento total por loja**
-- **Categorias mais populares**
-- **Média de avaliação dos clientes**
+- **Categorias mais e menos populares**
+- **Média de avaliação das lojas recebidas pelos clientes**
 - **Produtos mais e menos vendidos**
 - **Custo médio do frete**
 
